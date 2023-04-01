@@ -5,7 +5,9 @@ The goal of the project is to generate piano music, inspired by classical piano 
 The compositions are retrieved with MIDI files, using web-scraping.
 
 ### Results
-The resulting generated audio can be opened at [/generated_samples](https://github.com/timothewt/Piano_Music_Generation/tree/main/generated_samples)
+The results are pretty decieving and the model need to be improved.
+
+The resulting generated audio can be opened at [/generated_samples](https://github.com/timothewt/Piano_Music_Generation/tree/main/generated_samples).
 
 ### Technologies used
 - PyTorch for the LSTMs and CNNs model
